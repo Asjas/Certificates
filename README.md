@@ -18,3 +18,15 @@ This is a repository that contains all the certificates that I have earned.
 ### Mongo University
 
 * M001: MongoDB Basics
+
+### Comptia
+
+* Comptia A+
+* Comptia N+
+* Comptia Linux+
+
+### Linux
+
+* EdX Introduction to Linux
+* SuSE Certified Linux Administrator
+* LPIC-1
