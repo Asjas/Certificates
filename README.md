@@ -13,11 +13,19 @@ This is a repository that contains all the certificates that I have earned.
 * Automate Web Development with Gulp JS
 * The Web Developer Bootcamp
 * HMTL5, CSS3 and JavaScript Workshop: Build 7 Creative Projects
-* The Complete JavaScript Course.pdf
+* The Complete JavaScript Course
 
 ### Mongo University
 
 * M001: MongoDB Basics
+
+### Sololearn
+
+* HTML Fundamentals
+* CSS Fundamentals
+* JavaScript Tutorial
+* PHP Tutorial
+* SQL Fundamentals
 
 ### Comptia
 
