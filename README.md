@@ -6,7 +6,7 @@ This is a repository that contains all the certificates that I have earned.
 
 * CSS Grid
 * ES6 for Everyone
-* Learn node
+* Learn Node
 * React For Beginners
 
 ### Udemy
