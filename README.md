@@ -2,6 +2,10 @@
 
 This is a repository that contains all the certificates that I have earned.
 
+### freeCodeCamp
+
+* Responsive Web Design Certificate
+
 ### Wesbos
 
 * CSS Grid
