@@ -10,6 +10,10 @@ This is a repository that contains all the certificates that I have earned.
 
 * Responsive Web Design Certificate
 
+### Andela
+
+* Google Africa Scholarship: Mobile Web Specialist
+
 ### Wesbos
 
 * CSS Grid
