@@ -30,6 +30,7 @@ This is a repository that contains all the certificates that I have earned.
 * Advanced JavaScript Course
 * JavaScript and React for Developers
 * The Sass Course! Learn Sass for Real-World Websites
+* The Complete Web Developer in 2019: Zero to Mastery
 
 ### Mongo University
 
