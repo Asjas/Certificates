@@ -32,6 +32,16 @@ This is a repository that contains all the certificates that I have earned.
 * The Sass Course! Learn Sass for Real-World Websites
 * The Complete Web Developer in 2019: Zero to Mastery
 
+### Pluralsight
+
+* JavaScript Objects and Prototypes
+* Building Offline Web Apps with Service Worker
+* Building Progressive Web Apps with the App Shell Model
+* Play by Play: JavaScript Security
+* Play by Play: Modern Web Security Patterns
+* Practical Design Patterns in JavaScript
+* Progressive Web App Fundamentals
+
 ### Mongo University
 
 * M001: MongoDB Basics
