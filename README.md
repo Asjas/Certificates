@@ -2,26 +2,26 @@
 
 This is a repository that contains all the certificates that I have earned.
 
-### Udacity
+## Udacity
 
 * Front-End Web Developer Nanodegree
 
-### freeCodeCamp
+## freeCodeCamp
 
 * Responsive Web Design Certificate
 
-### Andela
+## Andela
 
 * Google Africa Scholarship: Mobile Web Specialist
 
-### Wesbos
+## Wesbos
 
 * CSS Grid
 * ES6 for Everyone
 * Learn Node
 * React For Beginners
 
-### Udemy
+## Udemy
 
 * Automate Web Development with Gulp JS
 * The Web Developer Bootcamp
@@ -31,8 +31,9 @@ This is a repository that contains all the certificates that I have earned.
 * JavaScript and React for Developers
 * The Sass Course! Learn Sass for Real-World Websites
 * The Complete Web Developer in 2019: Zero to Mastery
+* Typescript with modern React
 
-### Pluralsight
+## Pluralsight
 
 * JavaScript Objects and Prototypes
 * Building Offline Web Apps with Service Worker
@@ -42,11 +43,11 @@ This is a repository that contains all the certificates that I have earned.
 * Practical Design Patterns in JavaScript
 * Progressive Web App Fundamentals
 
-### Mongo University
+## Mongo University
 
 * M001: MongoDB Basics
 
-### Sololearn
+## Sololearn
 
 * HTML Fundamentals
 * CSS Fundamentals
@@ -54,13 +55,13 @@ This is a repository that contains all the certificates that I have earned.
 * PHP Tutorial
 * SQL Fundamentals
 
-### Comptia
+## Comptia
 
 * Comptia A+
 * Comptia N+
 * Comptia Linux+
 
-### Linux
+## Linux
 
 * EdX Introduction to Linux
 * SuSE Certified Linux Administrator
