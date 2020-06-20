@@ -2,6 +2,10 @@
 
 This is a repository that contains all the certificates that I have earned.
 
+## Google
+
+* Mobile Web Specialist
+
 ## Udacity
 
 * Front-End Web Developer Nanodegree
